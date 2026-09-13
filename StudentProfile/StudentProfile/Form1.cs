@@ -15,6 +15,9 @@ namespace StudentProfile
         public Form1()
         {
             InitializeComponent();
+
+            // Updated and formatted contact number field
+            string contactNumber = "0917-123-456";
         }
 
         private void label2_Click(object sender, EventArgs e)
