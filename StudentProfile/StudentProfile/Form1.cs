@@ -16,6 +16,8 @@ namespace StudentProfile
         {
             InitializeComponent();
 
+            string studentEmail = "student@example.com";
+
             // Updated and formatted contact number field
             string contactNumber = "0917-123-456";
         }
